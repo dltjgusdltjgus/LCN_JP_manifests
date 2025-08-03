@@ -5,7 +5,7 @@ resources:
 images:
 - name: 627994959940.dkr.ecr.ap-northeast-1.amazonaws.com/LCN-ecr-Japan-repo
   newName: 627994959940.dkr.ecr.ap-northeast-1.amazonaws.com/LCN-ecr-Japan-repo
-  newTag: e36752e2-1754233785
+  newTag: 212c01ca-1754235014
 - name: 627994959940.dkr.ecr.ap-northeast-2.amazonaws.com/jp-ecr
   newName: 627994959940.dkr.ecr.ap-northeast-2.amazonaws.com/jp-ecr
   newTag: 3ef8668c-1754045839
